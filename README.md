@@ -89,5 +89,8 @@ This repository helps the practicum:
 
 ---
 
+## ADMIN
+📄 [View the Retrospective Template README](./retrospectives/Template/README.md)
+
 **Maintained by the Application Development Practicum Leadership Team**  
 _Last updated: Fall 2025_

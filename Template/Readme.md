@@ -1,10 +1,10 @@
-# 🧭 Retrospective Template
+# 🧭 Retrospective
 
-This template provides a **standard structure for three-month retrospectives** across the Application Development Practicum.  
-It helps all practicum members reflect on habits, collaboration, and communication at the **program level**, not within individual client projects.
+This board is our **three-month retrospective space** for the Application Development Practicum.  
+It’s where all practicum members reflect on collaboration, communication, and growth across the program — beyond individual projects.
 
-Participants can use this board to contribute feedback and ideas throughout the term.  
-Admins (facilitators) can duplicate it for each new term and manage discussions during retrospective sessions.
+Throughout the term, everyone is encouraged to share thoughts, wins, and lessons learned.  
+At the end of the term, we’ll review these items together and identify clear action steps for improvement.
 
 ---
 
@@ -12,109 +12,78 @@ Admins (facilitators) can duplicate it for each new term and manage discussions 
 
 | Column | Purpose |
 |--------|----------|
-| **Agenda ✏️** | Talking points or guiding questions for reflection. |
+| **Agenda ✏️** | Talking points or guiding questions for reflection sessions. |
 | **Start 🟢** | New habits or ideas we should begin exploring. |
-| **Stop 🟡** | Habits or workflows that cause friction and should end. |
-| **Continue 🟣** | Practices or tools that are working well and should continue. |
-| **Action Items 🔵** | Final, agreed-upon improvements and next steps. |
+| **Stop 🟡** | Practices that hinder progress and should be discontinued. |
+| **Continue 🟣** | Habits, tools, or workflows that are effective and worth maintaining. |
+| **Action Items 🔵** | Final, agreed-upon next steps or improvements for the next term. |
 
 ---
 
 ## 🏷️ Label System
 
-Labels help categorize feedback and reveal patterns across terms.
+Labels help organize feedback and reveal recurring themes over time.  
+Use one or more labels to help categorize your issue.
 
 | Label | Description |
 |--------|-------------|
-| `blocked` | Something preventing progress or causing workflow friction |
+| `blocked` | Something preventing progress or creating friction |
 | `celebration` | Wins, shout-outs, or highlights |
-| `code-quality` | Maintainability, testing, or technical debt topics |
-| `communication` | Alignment, team interaction, or feedback flow |
-| `dev-environment` | Local setup issues, builds, or dependencies |
+| `code-quality` | Comments on maintainability, testing, or technical debt |
+| `communication` | Alignment, feedback, or collaboration topics |
+| `dev-environment` | Setup issues, build pain points, or dependencies |
 | `discussion-topic` | General thoughts or open questions |
 | `documentation` | Missing or unclear documentation |
-| `follow-up` | Needs review in the next retrospective |
-| `handoff` | Role transitions or project shifts |
-| `idea` | New suggestions or experiments |
-| `planning` | Sprint or term planning reflections |
-| `tools` | Feedback on GitHub, Linear, Miro, etc. |
-| `workflow` | Process, collaboration, or task flow issues |
+| `follow-up` | To be revisited in the next retrospective |
+| `handoff` | Notes about leadership or role transitions |
+| `idea` | Suggestions for new improvements |
+| `planning` | Sprint or scheduling reflections |
+| `tools` | Feedback about GitHub, Linear, or Miro |
+| `workflow` | Process, collaboration, or coordination issues |
 
 ---
 
-## 👥 For Participants
+## 👥 How to Participate
 
-### 💬 How to Contribute
+1. Click **“New issue.”**
+2. Add a short **title** and **description** explaining your observation, challenge, or idea.
+3. Apply one or more **labels** that describe the topic.
+4. Place the issue in the appropriate column (`Start`, `Stop`, `Continue`, or `Action Items`).
+5. React or comment on other cards to add insight or suggestions.
 
-1. Click **“New issue”** on this board.
-2. Add a clear **title** and short **description** of your observation, blocker, or idea.
-3. Apply one or more **labels** that match your feedback.
-4. Place your issue under the most relevant column (`Start`, `Stop`, `Continue`, etc.).
-5. React to or comment on other issues to add input before or during the retrospective meeting.
-
----
-
-### ✅ During the Retrospective
-
-- Discuss items openly during the session.
-- Help group related issues together for clarity.
-- Suggest realistic **Action Items** that the practicum can complete within the next term.
-- After discussion, mark issues as **closed** once resolved — but keep them visible on the board for transparency.
+You can contribute at **any point during the term** — retrospectives are ongoing, not one-time events.
 
 ---
 
-### 🕰️ Timeframe
+## ✅ During the Retrospective
 
-This board represents a **three-month period** (one academic term).  
-Issues remain open throughout the term for ongoing reflection.  
-When resolved, items are closed but not removed, preserving a visible record of progress and lessons learned.
+When we meet as a group:
 
----
-
-## 🧑‍💼 For Admins (Facilitators)
-
-### 🏗️ Setup
-
-1. **Duplicate this project** and rename it for the new term  
-   → Example: `Winter 2026 Retrospective`
-2. **Review and update this README** if any term-specific context is needed.
-3. Confirm that all **labels** match the shared practicum label standard.
-4. Add guiding questions or themes to the **Agenda** column before the first check-in.
-5. Invite all practicum members (PMs, Leads, Devs, Writers) to contribute freely during the term.
+- Discuss items in each column openly.
+- Group similar issues and look for patterns.
+- Identify concrete **Action Items** with clear ownership or next steps.
+- **Close** issues as they’re resolved — but leave them on the board for visibility and context.
 
 ---
 
-### 🧩 Running the Retrospective
+## 🕰️ End of Term
 
-- Encourage participants to post throughout the quarter, not just at the end.
-- During live sessions, **sort issues** into the appropriate columns.
-- Use **labels** to identify themes (communication, workflow, etc.).
-- Summarize next steps under **Action Items** and assign owners if needed.
-- Close items when addressed but **keep them visible** for historical context.
-
----
-
-### 📦 Archiving
-
-At the end of each term:
-
-1. **Close all completed items** to mark progress.
-2. Add a `follow-up` label to items that need attention next term.
-3. **Duplicate this project** for the next quarter (e.g., “Spring 2026 Retrospective”).
-4. Store all past retrospectives in the **Retrospective repository** to track long-term cultural and process improvements.
+- Closed items remain visible on the board for record-keeping.
+- Items labeled `follow-up` will be carried into the next term’s retrospective.
+- The final state of this board becomes a **snapshot** of our practicum culture and progress for the term.
 
 ---
 
 ## ✨ Purpose
 
-The retrospective process helps the practicum:
+This retrospective helps the practicum:
 
-- Identify recurring challenges and celebrate successes
-- Improve cross-team communication and collaboration
-- Encourage continuous growth and accountability
-- Document how the practicum evolves each term
+- Reflect on teamwork, leadership, and workflow habits
+- Celebrate progress and recognize contributions
+- Identify actionable improvements for future terms
+- Build a culture of openness, accountability, and continuous learning
 
 ---
 
 **Maintained by the Application Development Practicum Leadership Team**  
-_Adapted from Agile and Scrum retrospective best practices for academic collaboration._
+_Last updated: Fall 2025_
